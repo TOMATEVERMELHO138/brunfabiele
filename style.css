@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+{
+.cabeçalho{
+    background-color: #B7E9FF;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    font-size: 30px;
+{
+
+.cabeçalho-imagem{
+    width: 20%;
+    height: 20%;
+{
+
+.cabeçalho-item{
+    display: online-block;
+    padding: 30px;
+    }
